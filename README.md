@@ -42,7 +42,7 @@ Me: Why do you keep trying to sell me things?
 
 Ingeborg: I'm a free service to everyone, and I need advertisers to stay alive.
 
-Then Ingeborg starts the conversation again from the beginning.*
+Then Ingeborg starts the conversation again from the beginning.
 
 ### Results:
 See examples [1](https://github.com/bruchansky/open-ai-prompts/blob/main/open-ai-dystopia-1.md) and [2](https://github.com/bruchansky/open-ai-prompts/blob/main/open-ai-dystopia-2.md) of dialogue with ChatGPT.
